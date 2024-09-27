@@ -1,0 +1,9 @@
+<html>
+<body>
+<button style="background:blue;color:white;">кнопка</button>
+<text style="background:green;color:red;"> Какой-то текст </text>
+<img
+style="width:50px;"
+src="https://images.wallpaperscraft.com/image/single/waterfall_precipice_sunlight_122934_3840x2400.jpg">; <a href="google.com"> переходим на гугл </a>
+</body>
+</html>
